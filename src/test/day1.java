@@ -9,12 +9,7 @@ public class day1 {
 
 
 		// TODO Auto-generated method stub
-	@AfterTest
-	public void lastexecution()
-	{
-		System.out.println("I will execute last");
-		
-	}
+	
 	@Test
 	public void Demo()
 	{
