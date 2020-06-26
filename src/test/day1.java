@@ -33,6 +33,12 @@ public class day1 {
 		System.out.println("bye");
 	}
 
+	
+	@Test
+	public void SecondTest11()
+	{
+		System.out.println("good bye");
+	}
 
 
 }
