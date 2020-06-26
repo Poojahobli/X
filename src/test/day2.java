@@ -17,4 +17,10 @@ public class day2 {
 	{
 		System.out.println("I will execute first");
 	}
+
+	@Day2
+	public void prerequiste()
+	{
+		System.out.println("I will execute on 2nd day");
+	}
 }
