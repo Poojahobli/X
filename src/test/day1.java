@@ -37,7 +37,7 @@ public class day1 {
 	@Test
 	public void SecondTest11()
 	{
-		System.out.println("bye bye bye bye");
+		System.out.println("bye bye bye bye bye bye bye bye bye bye bye bye");
 	}
 
 
